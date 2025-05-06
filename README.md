@@ -46,7 +46,7 @@ The circuit diagram illustrates the wiring between the **Arduino Uno**, **LDR se
 
 Watch the video below to see the Solar Collector Tracking System in action:
 
-[![Solar Tracker System Demo](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[▶️ Click here to watch the demo video](https://drive.google.com/file/d/1vUirCIwSwc5_Kdtqh9U7uGzKYZuYzWee/view?usp=sharing)
 
 ## Project Installation
 
